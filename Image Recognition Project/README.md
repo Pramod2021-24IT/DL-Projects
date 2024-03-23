@@ -27,7 +27,6 @@
 ---------------------------------------------------------
 ## Acccuracy:
 
-![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/42c068a2-b6bc-4990-a267-d44902451ad7)
 
 ![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/484f0f81-6e71-413e-9c8f-03d02a4d1ee8)
 
