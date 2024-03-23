@@ -1,6 +1,8 @@
 
 ## Part of Internshala 
 
+![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/7d97ec73-f15c-4cae-a3b9-c42595517127)
+
 ## Details About the Project:
 * Binary Classification Problem (only Cat or Dog)
 * Colored Images of Cats and Dogs
@@ -8,6 +10,8 @@
 * Kaggle Dataset (https://www.kaggle.com/c/dogs-vs-cats/data)
 * We will use a subset of this data
   (Train:2000, Validation:1000, Test:1000)
+-------------------------------------
+![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/1346dad1-53de-4092-ae42-baffefeca899)
 
 -----------------------------------------------------------------
 ## Process:
