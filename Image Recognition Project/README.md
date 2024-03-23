@@ -14,3 +14,8 @@
 1. CNN with small dataset (Accuracy 71%)
 2. CNN with data augmentation (Acc 80+%)
 3. Transfer Learning (Acc 90+%)
+
+---------------------------------------------------
+## Model Summary:
+
+![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/efa7b595-5a88-4f3d-874e-33283605d145)
