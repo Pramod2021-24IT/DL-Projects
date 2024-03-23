@@ -23,3 +23,8 @@
 ## Model Summary:
 
 ![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/efa7b595-5a88-4f3d-874e-33283605d145)
+
+---------------------------------------------------------
+## Acccuracy:
+
+![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/42c068a2-b6bc-4990-a267-d44902451ad7)
