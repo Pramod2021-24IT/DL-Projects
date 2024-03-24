@@ -45,3 +45,22 @@ The ILSVRC for shorts is an annual competition helped between 2010 amd 2017 in w
 The goal of the challenge was to both
 1. Promote the development of better computer vision techniques
 2. To benchmark the state of the art
+
+
+### Popular ILSVRC submissions
+
+
+**1. LeNET**
+**2. VGG16NET**
+**3. GoogLeNet**
+
+- Convolutional base can be re-used with new classifier
+  **Advantages**
+  * Saves a lot of training time
+  * Proven models with good accuracy
+  * Models trained on large datasets- better features extracted
+  * Easy to use
+
+
+
+
