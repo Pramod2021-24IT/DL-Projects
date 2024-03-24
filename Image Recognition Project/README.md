@@ -30,3 +30,18 @@
 
 ![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/484f0f81-6e71-413e-9c8f-03d02a4d1ee8)
 
+-------------------------------------------------
+
+## Transfer Learning: Basics
+ 
+### Popular CNN Architectures
+**Why**
+1. To bulid intuition for good model architecture
+2. To use these pre-trained models without retraining for our problem
+
+**ImageNet Large Scale Visual Recognition Challenge (ILSVRC)**
+The ILSVRC for shorts is an annual competition helped between 2010 amd 2017 in which challenge tasks use subsets of the ImegeNet dataset.
+
+The goal of the challenge was to both
+1. Promote the development of better computer vision techniques
+2. To benchmark the state of the art
