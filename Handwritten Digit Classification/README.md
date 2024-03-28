@@ -10,15 +10,15 @@ Our task is to create an ANN model for identifying the digit from the handwritte
 
 Performed the following tasks:
 
-•	Loaded the database to variable named digit_mnist using the Keras inbuilt datasets (digit_mnist = keras.datasets.mnist)
-•	Imported data to create X_train_full, y_train_full, X_test and y_test variables
-•	Normalized the data
-•	Created a validation set of 6000 images
-•	Created an ANN model with two dense layers of 200 and 100 neurons
-•	Compiled and train the model for 60 epochs
-•	Ploted the loss and accuracy against epoch
-•	Evaluated the model accuracy on the test dataset
-•	Predicted the digit for the first 5 records of the test dataset
+* Loaded the database to variable named digit_mnist using the Keras inbuilt datasets (digit_mnist = keras.datasets.mnist)
+* Imported data to create X_train_full, y_train_full, X_test and y_test variables
+* Normalized the data
+* Created a validation set of 6000 images
+* Created an ANN model with two dense layers of 200 and 100 neurons
+* Compiled and train the model for 60 epochs
+* Ploted the loss and accuracy against epoch
+* Evaluated the model accuracy on the test dataset
+* Predicted the digit for the first 5 records of the test dataset
 
 
 Model_A:
