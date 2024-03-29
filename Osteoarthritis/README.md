@@ -23,6 +23,7 @@ Each of these folders has two folders-
 1. Test
 2. Normal
 
+[Click heare](https://trainings.internshala.com/uploads/deep-learning/content_media/Osteoarthritis_Assignment_dataset.zip) to download the dataset.
 
 ## Performed the following tasks:
 
