@@ -15,6 +15,16 @@
 ![image](https://github.com/Pramod2021-24IT/DL-Projects/assets/95674009/1346dad1-53de-4092-ae42-baffefeca899)
 
 -----------------------------------------------------------------
+## Tasks:
+- For this project, I've worked on the ‘Cats and Dogs’ database.
+- Our task is to apply InceptionResNetV2 for this classification problem.
+- Compared the execution time and accuracy on the test set.
+
+## Dataset 
+
+[Click here](https://www.kaggle.com/c/dogs-vs-cats/data) to download the dataset.
+
+
 ## Process:
 1. CNN with small dataset (Accuracy 71%)
 2. CNN with data augmentation (Acc 80+%)
@@ -51,23 +61,14 @@ The goal of the challenge was to both
 ### Popular ILSVRC submissions
 
 
-**1. LeNET**
-**2. VGG16NET**
-**3. GoogLeNet**
+**1. LeNET** <br>
+**2. VGG16NET** <br>
+**3. GoogLeNet** <br>
 
 - Convolutional base can be re-used with new classifier
   **Advantages**
   * Saves a lot of training time
   * Proven models with good accuracy
-
-## Tasks:
-- For this project, I've worked on the ‘Cats and Dogs’ database.
-- Our task is to apply InceptionResNetV2 for this classification problem.
-- Compared the execution time and accuracy on the test set.
-
-## Dataset 
-
-[Click here](https://www.kaggle.com/c/dogs-vs-cats/data) to download the dataset.
 
 ### Features
 
