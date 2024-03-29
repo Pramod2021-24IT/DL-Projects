@@ -56,7 +56,7 @@ Model_B:
 | To Do                     |
 |---------------------------|
 | 1. Mobile Application     |
-| 2. GPS Integration        |
+| 2. Web Extension          |
 
 #
 
